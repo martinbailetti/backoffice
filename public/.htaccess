@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Si no es un archivo o directorio existente, redirigir a index.html
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+
+  # Redirigir todas las rutas a index.html para que Next.js maneje la navegación
+  RewriteRule ^ index.html [L]
+</IfModule>

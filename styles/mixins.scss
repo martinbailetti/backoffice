@@ -1,0 +1,10 @@
+@mixin respond-to($breakpoint) {
+    $min-width: map-get($breakpoints, $breakpoint);
+    @if $min-width != null {
+      @media (min-width: #{$min-width}) {
+        @content;
+      }
+    } @else {
+      @error "El breakpoint #{$breakpoint} no está definido en \$breakpoints.";
+    }
+  }

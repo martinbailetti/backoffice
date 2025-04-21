@@ -1,0 +1,74 @@
+{
+  "typescript.preferences.importModuleSpecifierEnding": "minimal",
+  "javascript.preferences.importModuleSpecifierEnding": "minimal",
+  "favorites.resources": [
+    {
+      "filePath": "hooks\\useBridge.ts",
+      "group": "Default"
+    },
+    {
+      "filePath": "slices",
+      "group": "Default"
+    },
+    {
+      "filePath": "styles",
+      "group": "Default"
+    },
+    {
+      "filePath": "app\\bridgeMiddleware.ts",
+      "group": "Default"
+    },
+    {
+      "filePath": "types\\index.ts",
+      "group": "Default"
+    },
+    {
+      "filePath": "package.json",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\types\\index.ts",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\slices",
+      "group": "Default"
+    },
+    {
+      "filePath": "public\\locales\\es.json",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\components",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\app",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\app\\backoffice",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\api",
+      "group": "Default"
+    },
+    {
+      "filePath": "public\\locales",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\config",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\pages",
+      "group": "Default"
+    },
+    {
+      "filePath": "src\\templates",
+      "group": "Default"
+    }
+  ]
+}

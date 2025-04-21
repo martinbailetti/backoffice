@@ -1,0 +1,3386 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.120305555,
+                  41.55025
+              ]
+          },
+          "properties": {
+              "id": 10218,
+              "label": "Pasarelas sobre el R\u00edo Ripoll",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Passera%20Mol%C3%AD%20d%27en%20Fontanet.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Passeres_sobre_el_Riu_Ripoll",
+              "article_title": "Passeres sobre el Riu Ripoll",
+              "article_language_code": "ca",
+              "distance": 8424.976266804564,
+              "marker_type_id": "bridge",
+              "inception_date": "1964-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.031389,
+                  41.486389
+              ]
+          },
+          "properties": {
+              "id": 29652,
+              "label": "Estaci\u00f3n de Rub\u00ed (FGC)",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Nova%20estaci%C3%B3.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Rub%C3%AD_(FGC)",
+              "article_title": "Estaci\u00f3n de Rub\u00ed (FGC)",
+              "article_language_code": "es",
+              "distance": 4172.16293033512,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.091666666,
+                  41.538888888
+              ]
+          },
+          "properties": {
+              "id": 30794,
+              "label": "Villa la romana de Can Feu",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Vil%C2%B7la_romana_de_Can_Feu",
+              "article_title": "Vil\u00b7la romana de Can Feu",
+              "article_language_code": "ca",
+              "distance": 6556.965232565556,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.178675,
+                  41.443883333
+              ]
+          },
+          "properties": {
+              "id": 32755,
+              "label": "Estaci\u00f3n de Via J\u00falia",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20Via%20J%C3%BAlia.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Via_J%C3%BAlia",
+              "article_title": "Estaci\u00f3n de Via J\u00falia",
+              "article_language_code": "es",
+              "distance": 9110.934389744523,
+              "marker_type_id": "subterranea",
+              "inception_date": "1982-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.180393289,
+                  41.448742312
+              ]
+          },
+          "properties": {
+              "id": 33364,
+              "label": "Centro de las Artes del Circo Rogelio Rivel",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Centro_de_las_Artes_del_Circo_Rogelio_Rivel",
+              "article_title": "Centro de las Artes del Circo Rogelio Rivel",
+              "article_language_code": "es",
+              "distance": 9014.072683229195,
+              "marker_type_id": "artsVenue",
+              "inception_date": "1999-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.120044,
+                  41.421751
+              ]
+          },
+          "properties": {
+              "id": 40741,
+              "label": "Parque de atracciones Tibidabo",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Luna%20park%20Barcelona.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Parque_de_Atracciones_Tibidabo",
+              "article_title": "Parque de Atracciones Tibidabo",
+              "article_language_code": "es",
+              "distance": 7301.753549443923,
+              "marker_type_id": "naturalHeritage",
+              "inception_date": "1901-10-29 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.114166666,
+                  41.417222222
+              ]
+          },
+          "properties": {
+              "id": 44436,
+              "label": "Torre de Collserola",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Torre%20de%20Collserola%202013.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Torre_de_Collserola",
+              "article_title": "Torre de Collserola",
+              "article_language_code": "es",
+              "distance": 7562.175842399582,
+              "marker_type_id": "tower",
+              "inception_date": "1991-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.146573996,
+                  41.43920577
+              ]
+          },
+          "properties": {
+              "id": 46716,
+              "label": "Marqu\u00e8s d'Alfarr\u00e0s palace",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Parc%20del%20Laberint%20d%27Horta%20Barcelona%207.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Palau_del_Marqu%C3%A8s_d%27Alfarr%C3%A0s_(Horta)",
+              "article_title": "Palau del Marqu\u00e8s d'Alfarr\u00e0s (Horta)",
+              "article_language_code": "ca",
+              "distance": 7145.61482124506,
+              "marker_type_id": "palace",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.02653,
+                  41.4945
+              ]
+          },
+          "properties": {
+              "id": 54371,
+              "label": "Castillo de Rub\u00ed",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20Rub%C3%AD.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_Rub%C3%AD",
+              "article_title": "Castillo de Rub\u00ed",
+              "article_language_code": "es",
+              "distance": 4785.624646309517,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.108805555,
+                  41.547447222
+              ]
+          },
+          "properties": {
+              "id": 54407,
+              "label": "Estaci\u00f3n de Sabadell - Pla\u00e7a Major",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20de%20Sabadell%20Pla%C3%A7a%20Major.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Sabadell_Plaza_Mayor",
+              "article_title": "Estaci\u00f3n de Sabadell Plaza Mayor",
+              "article_language_code": "es",
+              "distance": 7801.7758370268175,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.09592,
+                  41.5623
+              ]
+          },
+          "properties": {
+              "id": 54408,
+              "label": "Estaci\u00f3n de Sabadell Nord (Adif)",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20Sabadell%20Nord.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Sabadell_Norte",
+              "article_title": "Estaci\u00f3n de Sabadell Norte",
+              "article_language_code": "es",
+              "distance": 9184.10064069791,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.12675556,
+                  41.52683056
+              ]
+          },
+          "properties": {
+              "id": 54497,
+              "label": "iglesia de Santa Mar\u00eda (Barber\u00e1 del Vall\u00e9s)",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santa%20Maria%20de%20Barber%C3%A0.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_Santa_Mar%C3%ADa_(Barber%C3%A1_del_Vall%C3%A9s)",
+              "article_title": "Iglesia de Santa Mar\u00eda (Barber\u00e1 del Vall\u00e9s)",
+              "article_language_code": "es",
+              "distance": 6416.99117676361,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.185443364,
+                  41.43971482
+              ]
+          },
+          "properties": {
+              "id": 54952,
+              "label": "Pont del Drag\u00f3",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pont%20del%20Drag%C3%B3.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Pont_del_Drag%C3%B3",
+              "article_title": "Pont del Drag\u00f3",
+              "article_language_code": "ca",
+              "distance": 9824.173434285989,
+              "marker_type_id": "bridge",
+              "inception_date": "1862-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.108889,
+                  41.424444
+              ]
+          },
+          "properties": {
+              "id": 55044,
+              "label": "Parque natural de Collserola",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Tur%C3%B3%20de%20la%20Coscollera.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Parque_natural_de_Collserola",
+              "article_title": "Parque natural de Collserola",
+              "article_language_code": "es",
+              "distance": 6654.664644073077,
+              "marker_type_id": "naturalHeritage",
+              "inception_date": "2010-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.160989,
+                  41.430267
+              ]
+          },
+          "properties": {
+              "id": 55160,
+              "label": "Plaza Ibiza",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/3%20HORTA%28Barcelona%29-PlazaMercado%20Anv.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Plaza_de_Ibiza",
+              "article_title": "Plaza de Ibiza",
+              "article_language_code": "es",
+              "distance": 8705.065548321161,
+              "marker_type_id": "square",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.10083,
+                  41.4653
+              ]
+          },
+          "properties": {
+              "id": 55254,
+              "label": "Torre Negra",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/20%20Torre%20Negra%20%28Sant%20Cugat%20del%20Vall%C3%A8s%29.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Torre_Negra",
+              "article_title": "Torre Negra",
+              "article_language_code": "es",
+              "distance": 2370.693082234241,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.11886111,
+                  41.422075
+              ]
+          },
+          "properties": {
+              "id": 62689,
+              "label": "Templo Expiatorio del Sagrado Coraz\u00f3n",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sagrado%20Coraz%C3%B3n01.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Templo_Expiatorio_del_Sagrado_Coraz%C3%B3n",
+              "article_title": "Templo Expiatorio del Sagrado Coraz\u00f3n",
+              "article_language_code": "es",
+              "distance": 7225.784287034353,
+              "marker_type_id": "temple",
+              "inception_date": "1935-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.12291389,
+                  41.56308333
+              ]
+          },
+          "properties": {
+              "id": 62970,
+              "label": "Arraona",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20Sant%20Iscle%20i%20Santa%20Vict%C3%B2ria%20-%20Mosaic%20rom%C3%A0%20-%202.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Arraona",
+              "article_title": "Arraona",
+              "article_language_code": "es",
+              "distance": 9830.042065344536,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.137242,
+                  41.531211
+              ]
+          },
+          "properties": {
+              "id": 63053,
+              "label": "Can Llobateres",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Can_Llobateres",
+              "article_title": "Can Llobateres",
+              "article_language_code": "es",
+              "distance": 7339.866293640578,
+              "marker_type_id": "naturalHeritage",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.057778,
+                  41.416167
+              ]
+          },
+          "properties": {
+              "id": 63104,
+              "label": "Castillo de Olorda",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20Olorda%20IMG%208493.JPG",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Castell_d%27Olorda",
+              "article_title": "Castell d'Olorda",
+              "article_language_code": "ca",
+              "distance": 7405.233015588372,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.176612,
+                  41.477226
+              ]
+          },
+          "properties": {
+              "id": 63144,
+              "label": "Castillo de Moncada",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20montcada1.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_Moncada",
+              "article_title": "Castillo de Moncada",
+              "article_language_code": "es",
+              "distance": 7985.918100579728,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.01,
+                  41.4386
+              ]
+          },
+          "properties": {
+              "id": 63215,
+              "label": "Castillo de El Papiol",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20del%20Papiol.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_El_Papiol",
+              "article_title": "Castillo de El Papiol",
+              "article_language_code": "es",
+              "distance": 7519.499643179275,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.1457,
+                  41.41818
+              ]
+          },
+          "properties": {
+              "id": 63364,
+              "label": "Elogio del agua",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Elogi%20de%20l%27aigua%2002.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Elogio_del_agua",
+              "article_title": "Elogio del agua",
+              "article_language_code": "es",
+              "distance": 8786.499401779156,
+              "marker_type_id": "sculpture",
+              "inception_date": "1987-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.11416667,
+                  41.45611111
+              ]
+          },
+          "properties": {
+              "id": 63459,
+              "label": "Horno ib\u00e9rico de Sant Cugat del Vall\u00e8s",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Forn%20iberic2.JPG",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Forn_ib%C3%A8ric_de_Sant_Cugat_del_Vall%C3%A8s",
+              "article_title": "Forn ib\u00e8ric de Sant Cugat del Vall\u00e8s",
+              "article_language_code": "ca",
+              "distance": 3879.245364794975,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14958,
+                  41.42795
+              ]
+          },
+          "properties": {
+              "id": 63615,
+              "label": "Granja Vieja de Mart\u00ed-Codolar",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Rutes%20Hist%C3%B2riques%20a%20Horta-Guinard%C3%B3-granja%20marti%20codolar%2003.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Granja_Vella_de_Mart%C3%AD-Codolar",
+              "article_title": "Granja Vella de Mart\u00ed-Codolar",
+              "article_language_code": "ca",
+              "distance": 8180.873691492526,
+              "marker_type_id": "residentialBuilding",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.141298,
+                  41.43684
+              ]
+          },
+          "properties": {
+              "id": 63722,
+              "label": "Palau de les Heures",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Palau%20de%20les%20Heures%202021.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Palau_de_les_Heures",
+              "article_title": "Palau de les Heures",
+              "article_language_code": "es",
+              "distance": 6994.418082840278,
+              "marker_type_id": "palace",
+              "inception_date": "1898-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.133438,
+                  41.450134
+              ]
+          },
+          "properties": {
+              "id": 63726,
+              "label": "Palacio Real de Valldaura",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/CanValldaura.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Palacio_Real_de_Valldaura",
+              "article_title": "Palacio Real de Valldaura",
+              "article_language_code": "es",
+              "distance": 5530.555698456562,
+              "marker_type_id": "palace",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.161857,
+                  41.418622
+              ]
+          },
+          "properties": {
+              "id": 63791,
+              "label": "Pont de M\u00fchlberg",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Rutes%20Hist%C3%B2riques%20a%20Horta-Guinard%C3%B3-pedrera%20i%20pont%2010.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Pont_de_M%C3%BChlberg",
+              "article_title": "Pont de M\u00fchlberg",
+              "article_language_code": "ca",
+              "distance": 9638.146239905538,
+              "marker_type_id": "bridge",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.11671,
+                  41.5562
+              ]
+          },
+          "properties": {
+              "id": 63805,
+              "label": "puente de la Salut",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pont%20de%20la%20Salut.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Pont_de_la_Salut",
+              "article_title": "Pont de la Salut",
+              "article_language_code": "ca",
+              "distance": 8933.39096500791,
+              "marker_type_id": "bridge",
+              "inception_date": "1862-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15119167,
+                  41.46746111
+              ]
+          },
+          "properties": {
+              "id": 63920,
+              "label": "iglesia de San Acisclo y Santa Victoria",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Esglesia%20de%20Sant%20Iscle%20i%20Santa%20Victoria%20de%20les%20Feixes.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Ermita_de_Sant_Iscle_de_les_Feixes",
+              "article_title": "Ermita de Sant Iscle de les Feixes",
+              "article_language_code": "es",
+              "distance": 6036.603609961892,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14449,
+                  41.4795
+              ]
+          },
+          "properties": {
+              "id": 63954,
+              "label": "Santa Mar\u00eda de les Feixes",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santamariafeixes1312.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Santa_Mar%C3%ADa_de_les_Feixes",
+              "article_title": "Santa Mar\u00eda de les Feixes",
+              "article_language_code": "es",
+              "distance": 5302.755088796271,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.157354,
+                  41.418417
+              ]
+          },
+          "properties": {
+              "id": 63956,
+              "label": "Santuario de Nuestra Se\u00f1ora del Monte Carmelo",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santuari%20Carmel1.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Santuario_de_Nuestra_Se%C3%B1ora_del_Monte_Carmelo",
+              "article_title": "Santuario de Nuestra Se\u00f1ora del Monte Carmelo",
+              "article_language_code": "es",
+              "distance": 9395.807170825017,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.011743,
+                  41.408295
+              ]
+          },
+          "properties": {
+              "id": 91247,
+              "label": "Pont de Carles III",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/PontMolinspostal.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Pont_de_Carles_III",
+              "article_title": "Pont de Carles III",
+              "article_language_code": "ca",
+              "distance": 9879.47860735539,
+              "marker_type_id": "bridge",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.1372,
+                  41.410373
+              ]
+          },
+          "properties": {
+              "id": 104052,
+              "label": "La Rotonda",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/117%20La%20Rotonda%2C%20av.%20Tibidabo%202-4%20-%20pg.%20Sant%20Gervasi%2051-53%20%28Barcelona%29.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Torre_Andreu",
+              "article_title": "Torre Andreu",
+              "article_language_code": "es",
+              "distance": 9101.089640011309,
+              "marker_type_id": "residentialBuilding",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15249444,
+                  41.53456111
+              ]
+          },
+          "properties": {
+              "id": 111164,
+              "label": "Santa Mar\u00eda de Santiga",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santa%20Maria%20de%20Santiga.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_Santa_Mar%C3%ADa_(Santiga)",
+              "article_title": "Iglesia de Santa Mar\u00eda (Santiga)",
+              "article_language_code": "es",
+              "distance": 8470.845970370505,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.17465,
+                  41.43837
+              ]
+          },
+          "properties": {
+              "id": 119893,
+              "label": "La Rep\u00fablica",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/227%20Homenatge%20a%20Pi%20i%20Margall%2C%20pl.%20Llucmajor.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/La_Rep%C3%BAblica_(Homenaje_a_Pi_i_Margall)",
+              "article_title": "La Rep\u00fablica (Homenaje a Pi i Margall)",
+              "article_language_code": "es",
+              "distance": 9111.748043212263,
+              "marker_type_id": "sculpture",
+              "inception_date": "1934-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.1804,
+                  41.4616
+              ]
+          },
+          "properties": {
+              "id": 127592,
+              "label": "Estaci\u00f3n de Torre del Bar\u00f3",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20Torre%20del%20Bar%C3%B3%2002%202019.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Torre_del_Bar%C3%B3",
+              "article_title": "Estaci\u00f3n de Torre del Bar\u00f3",
+              "article_language_code": "es",
+              "distance": 8555.833335874624,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.12123,
+                  41.3997
+              ]
+          },
+          "properties": {
+              "id": 131643,
+              "label": "iglesia de San Vicente de Sarri\u00e0",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/178%20Esgl%C3%A9sia%20de%20Sant%20Vicen%C3%A7%20de%20Sarri%C3%A0%20%28Barcelona%29.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_San_Vicente_de_Sarri%C3%A1",
+              "article_title": "Iglesia de San Vicente de Sarri\u00e1",
+              "article_language_code": "es",
+              "distance": 9592.241650052063,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.01054,
+                  41.4391
+              ]
+          },
+          "properties": {
+              "id": 131644,
+              "label": "iglesia de Santa Eulalia",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/El%20Papiol-%20Esgl%C3%A9sia.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_Santa_Eulalia_(El_Papiol)",
+              "article_title": "Iglesia de Santa Eulalia (El Papiol)",
+              "article_language_code": "es",
+              "distance": 7449.735939684933,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14886,
+                  41.4067
+              ]
+          },
+          "properties": {
+              "id": 131646,
+              "label": "iglesia de Nuestra Se\u00f1ora de Gracia y San Jos\u00e9",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Josepets%20fa%C3%A7ana.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_Nuestra_Se%C3%B1ora_de_Gracia_y_San_Jos%C3%A9",
+              "article_title": "Iglesia de Nuestra Se\u00f1ora de Gracia y San Jos\u00e9",
+              "article_language_code": "es",
+              "distance": 9971.95833567354,
+              "marker_type_id": "temple",
+              "inception_date": "1658-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.09383,
+                  41.539
+              ]
+          },
+          "properties": {
+              "id": 135746,
+              "label": "Torre del Feu",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20Can%20Feu.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Castell_de_Can_Feu",
+              "article_title": "Castell de Can Feu",
+              "article_language_code": "ca",
+              "distance": 6596.316455424827,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.10809,
+                  41.5467
+              ]
+          },
+          "properties": {
+              "id": 140437,
+              "label": "Sant F\u00e8lix de Sabadell",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/09%20Pla%C3%A7a%20de%20Sant%20Roc%20%28Sabadell%29%2C%20amb%20la%20fa%C3%A7ana%20de%20Sant%20F%C3%A8lix.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_San_F%C3%A9lix_(Sabadell)",
+              "article_title": "Iglesia de San F\u00e9lix (Sabadell)",
+              "article_language_code": "es",
+              "distance": 7704.768010502344,
+              "marker_type_id": "temple",
+              "inception_date": "1500-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.13985,
+                  41.4916
+              ]
+          },
+          "properties": {
+              "id": 140453,
+              "label": "iglesia de San Mart\u00edn de Sarda\u00f1ola",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/14-08-05-cerdanyola-RalfR-006.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_San_Mart%C3%ADn_(Sarda%C3%B1ola_del_Vall%C3%A9s)",
+              "article_title": "Iglesia de San Mart\u00edn (Sarda\u00f1ola del Vall\u00e9s)",
+              "article_language_code": "es",
+              "distance": 5067.808590376564,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.156666666,
+                  41.4325
+              ]
+          },
+          "properties": {
+              "id": 140529,
+              "label": "Torre Mas Enrich",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/MasEnrich.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Torre_Mas_Enrich",
+              "article_title": "Torre Mas Enrich",
+              "article_language_code": "es",
+              "distance": 8269.46680515611,
+              "marker_type_id": "house",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.173425,
+                  41.437069444
+              ]
+          },
+          "properties": {
+              "id": 141180,
+              "label": "Estaci\u00f3n de Llucmajor",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20Llucmajor.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Llucmajor_\/_Rep%C3%BAblica",
+              "article_title": "Estaci\u00f3n de Llucmajor \/ Rep\u00fablica",
+              "article_language_code": "es",
+              "distance": 9100.268785018821,
+              "marker_type_id": "subterranea",
+              "inception_date": "1982-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.144944444,
+                  41.41175
+              ]
+          },
+          "properties": {
+              "id": 141547,
+              "label": "Estaci\u00f3n de Vallcarca",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20de%20Vallcarca%20del%20metro%20de%20Barcelona.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Vallcarca",
+              "article_title": "Estaci\u00f3n de Vallcarca",
+              "article_language_code": "es",
+              "distance": 9324.470267070194,
+              "marker_type_id": "subterranea",
+              "inception_date": "1985-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14472222,
+                  41.43
+              ]
+          },
+          "properties": {
+              "id": 146565,
+              "label": "Estaci\u00f3n de Montbau",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20de%20Montbau.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Montbau",
+              "article_title": "Estaci\u00f3n de Montbau",
+              "article_language_code": "es",
+              "distance": 7735.692543044081,
+              "marker_type_id": "subterranea",
+              "inception_date": "1985-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.139,
+                  41.405819444
+              ]
+          },
+          "properties": {
+              "id": 149900,
+              "label": "Estaci\u00f3n de El Putxet",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/107%20Estaci%C3%B3%20del%20Putxet%20dels%20FGC%2C%20pl.%20Joaquim%20Folguera%20%28Barcelona%29.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_El_Putxet",
+              "article_title": "Estaci\u00f3n de El Putxet",
+              "article_language_code": "es",
+              "distance": 9613.214089546964,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.0399,
+                  41.459003
+              ]
+          },
+          "properties": {
+              "id": 149927,
+              "label": "Castillo de Canals",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20Canals.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Castell_de_Canals",
+              "article_title": "Castell de Canals",
+              "article_language_code": "ca",
+              "distance": 4164.562543175258,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.155166666,
+                  41.4245
+              ]
+          },
+          "properties": {
+              "id": 153738,
+              "label": "Estaci\u00f3n de El Carmel",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Metro%20Carmel.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_El_Carmel",
+              "article_title": "Estaci\u00f3n de El Carmel",
+              "article_language_code": "es",
+              "distance": 8781.106851502844,
+              "marker_type_id": "subterranea",
+              "inception_date": "2010-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.158577,
+                  41.43287
+              ]
+          },
+          "properties": {
+              "id": 156798,
+              "label": "iglesia de San Juan de Horta",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sant%20Joan%20d%27Horta%20BCN.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_San_Juan_de_Horta",
+              "article_title": "Iglesia de San Juan de Horta",
+              "article_language_code": "es",
+              "distance": 8365.62175681688,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.1521616,
+                  41.41354958
+              ]
+          },
+          "properties": {
+              "id": 157153,
+              "label": "Casa-Museo Gaud\u00ed",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Casa-Museo%20Gaud%C3%AD.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Casa-Museo_Gaud%C3%AD",
+              "article_title": "Casa-Museo Gaud\u00ed",
+              "article_language_code": "es",
+              "distance": 9524.461343428076,
+              "marker_type_id": "historicBuilding",
+              "inception_date": "1905-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.16777778,
+                  41.44277778
+              ]
+          },
+          "properties": {
+              "id": 158086,
+              "label": "Estaci\u00f3n de Canyelles",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%20Metro%20-%20Canyelles%20platform.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Canyelles",
+              "article_title": "Estaci\u00f3n de Canyelles",
+              "article_language_code": "es",
+              "distance": 8369.344985386899,
+              "marker_type_id": "subterranea",
+              "inception_date": "2001-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.02854,
+                  41.498121
+              ]
+          },
+          "properties": {
+              "id": 158829,
+              "label": "Puente del Agua",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/222%20Pont%20de%20Can%20Claver%C3%AD.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Pont_de_l%27Aigua",
+              "article_title": "Pont de l'Aigua",
+              "article_language_code": "ca",
+              "distance": 4778.247702733725,
+              "marker_type_id": "bridge",
+              "inception_date": "1753-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.13783,
+                  41.538006
+              ]
+          },
+          "properties": {
+              "id": 163482,
+              "label": "Jaciment arqueol\u00f2gic de Can Piteu-Can Roqueta",
+              "label_language_code": "en",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Necr%C3%B2polis_de_Can_Piteu_-_Can_Roqueta",
+              "article_title": "Necr\u00f2polis de Can Piteu - Can Roqueta",
+              "article_language_code": "ca",
+              "distance": 7964.2219368048445,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.031944444,
+                  41.519444444
+              ]
+          },
+          "properties": {
+              "id": 163522,
+              "label": "Estaci\u00f3n Paleol\u00edtica de Can Fonollet",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Estaci%C3%B3_Paleol%C3%ADtica_de_Can_Fonollet",
+              "article_title": "Estaci\u00f3 Paleol\u00edtica de Can Fonollet",
+              "article_language_code": "ca",
+              "distance": 5946.404210400619,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.082414,
+                  41.547511
+              ]
+          },
+          "properties": {
+              "id": 163537,
+              "label": "Jaciment arqueol\u00f2gic de Can Gamb\u00fas",
+              "label_language_code": "en",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Jaciment_arqueol%C3%B2gic_de_Can_Gamb%C3%BAs",
+              "article_title": "Jaciment arqueol\u00f2gic de Can Gamb\u00fas",
+              "article_language_code": "ca",
+              "distance": 7454.673862210976,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.093475,
+                  41.500432
+              ]
+          },
+          "properties": {
+              "id": 163581,
+              "label": "Yacimiento arqueol\u00f3gico del Torrent de Can Dom\u00e8nec",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Jaciment_arqueol%C3%B2gic_del_Torrent_de_Can_Dom%C3%A8nec",
+              "article_title": "Jaciment arqueol\u00f2gic del Torrent de Can Dom\u00e8nec",
+              "article_language_code": "ca",
+              "distance": 2455.222089539317,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.994133,
+                  41.45504
+              ]
+          },
+          "properties": {
+              "id": 163613,
+              "label": "El Canyet (Castellbisbal)",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/El_Canyet_(Castellbisbal)",
+              "article_title": "El Canyet (Castellbisbal)",
+              "article_language_code": "ca",
+              "distance": 7759.311397283665,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.0905,
+                  41.534334
+              ]
+          },
+          "properties": {
+              "id": 163622,
+              "label": "Yacimiento arqueol\u00f3gico de la B\u00f2bila Madurell-Mas Duran",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Jaciment_arqueol%C3%B2gic_de_la_B%C3%B2bila_Madurell-Mas_Duran",
+              "article_title": "Jaciment arqueol\u00f2gic de la B\u00f2bila Madurell-Mas Duran",
+              "article_language_code": "ca",
+              "distance": 6042.005063507336,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.165363,
+                  41.53955
+              ]
+          },
+          "properties": {
+              "id": 163695,
+              "label": "Can Vinyals Paleol\u00edtic",
+              "label_language_code": "en",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Can_Vinyals_Paleol%C3%ADtic",
+              "article_title": "Can Vinyals Paleol\u00edtic",
+              "article_language_code": "ca",
+              "distance": 9626.270506387742,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.13313,
+                  41.406777
+              ]
+          },
+          "properties": {
+              "id": 172743,
+              "label": "iglesia de Nuestra Se\u00f1ora de la Bonanova",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Esgl%C3%A9sia%20Bonanova.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_Nuestra_Se%C3%B1ora_de_la_Bonanova",
+              "article_title": "Iglesia de Nuestra Se\u00f1ora de la Bonanova",
+              "article_language_code": "es",
+              "distance": 9281.881771445098,
+              "marker_type_id": "temple",
+              "inception_date": "1942-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.152777777,
+                  41.413611111
+              ]
+          },
+          "properties": {
+              "id": 174128,
+              "label": "Park G\u00fcell",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Parc%20G%C3%BCell%2027-2-12.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Parque_G%C3%BCell",
+              "article_title": "Parque G\u00fcell",
+              "article_language_code": "es",
+              "distance": 9551.266012009317,
+              "marker_type_id": "sculpture",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.144289,
+                  41.520702
+              ]
+          },
+          "properties": {
+              "id": 175032,
+              "label": "Castillo de Barber\u00e1 del Vall\u00e9s",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20Barber%C3%A0.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_Barber%C3%A1_del_Vall%C3%A9s",
+              "article_title": "Castillo de Barber\u00e1 del Vall\u00e9s",
+              "article_language_code": "es",
+              "distance": 6922.118734925599,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.973706,
+                  41.473891
+              ]
+          },
+          "properties": {
+              "id": 175492,
+              "label": "Castillo de Castellbisbal",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20Castellbisbal.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_Castellbisbal",
+              "article_title": "Castillo de Castellbisbal",
+              "article_language_code": "es",
+              "distance": 8956.031336018708,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14916667,
+                  41.43527778
+              ]
+          },
+          "properties": {
+              "id": 179995,
+              "label": "Estaci\u00f3n de Mundet",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%20Metro%20-%20Mundet.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Mundet",
+              "article_title": "Estaci\u00f3n de Mundet",
+              "article_language_code": "es",
+              "distance": 7594.398633063575,
+              "marker_type_id": "subterranea",
+              "inception_date": "2001-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.16806,
+                  41.4303
+              ]
+          },
+          "properties": {
+              "id": 200263,
+              "label": "Estaci\u00f3n de Vilapicina",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20Vilapicina.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Vilapicina",
+              "article_title": "Estaci\u00f3n de Vilapicina",
+              "article_language_code": "es",
+              "distance": 9162.726649853628,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.141666666,
+                  41.424722222
+              ]
+          },
+          "properties": {
+              "id": 200993,
+              "label": "Estaci\u00f3n de Vall d'Hebron",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%20Metro%20-%20Vall%20d%27Hebron.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Vall_d%27Hebron_\/_Sant_Gen%C3%ADs",
+              "article_title": "Estaci\u00f3n de Vall d'Hebron \/ Sant Gen\u00eds",
+              "article_language_code": "es",
+              "distance": 8008.091250349009,
+              "marker_type_id": "subterranea",
+              "inception_date": "2010-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.17555556,
+                  41.44666667
+              ]
+          },
+          "properties": {
+              "id": 203262,
+              "label": "Estaci\u00f3n de Roquetes",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Metro%20Barcelona%20Roquetes%20Station.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Roquetes",
+              "article_title": "Estaci\u00f3n de Roquetes",
+              "article_language_code": "es",
+              "distance": 8741.458777041453,
+              "marker_type_id": "subterranea",
+              "inception_date": "2008-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.18611111,
+                  41.45277778
+              ]
+          },
+          "properties": {
+              "id": 203265,
+              "label": "Estaci\u00f3n de Casa de l'Aigua",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%20Metro%20-%20Casa%20de%20l%27Aigua.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Casa_de_l%27Aigua",
+              "article_title": "Estaci\u00f3n de Casa de l'Aigua",
+              "article_language_code": "es",
+              "distance": 9295.895272512736,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.17181,
+                  41.4632
+              ]
+          },
+          "properties": {
+              "id": 205592,
+              "label": "Estaci\u00f3n de Can Cui\u00e0s",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%20Metro%20-%20Can%20Cuias.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Can_Cui%C3%A0s",
+              "article_title": "Estaci\u00f3n de Can Cui\u00e0s",
+              "article_language_code": "es",
+              "distance": 7818.274311790017,
+              "marker_type_id": "subterranea",
+              "inception_date": "2003-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.131111111,
+                  41.413055555
+              ]
+          },
+          "properties": {
+              "id": 206445,
+              "label": "CosmoCaixa Barcelona",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/CosmoCaixa%20building.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/CosmoCaixa_Barcelona",
+              "article_title": "CosmoCaixa Barcelona",
+              "article_language_code": "es",
+              "distance": 8588.230720733423,
+              "marker_type_id": "pointOfInterest",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.174616,
+                  41.438347
+              ]
+          },
+          "properties": {
+              "id": 207031,
+              "label": "Plaza de Llucmajor",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/La%20Rep%C3%BAblica%20%28Homenaje%20a%20Pi%20i%20Margall%29.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Plaza_de_la_Rep%C3%BAblica_(Barcelona)",
+              "article_title": "Plaza de la Rep\u00fablica (Barcelona)",
+              "article_language_code": "es",
+              "distance": 9110.633636134118,
+              "marker_type_id": "square",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.161886111,
+                  41.429683333
+              ]
+          },
+          "properties": {
+              "id": 207357,
+              "label": "Estaci\u00f3n de Horta",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20d%27Horta.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Horta",
+              "article_title": "Estaci\u00f3n de Horta",
+              "article_language_code": "es",
+              "distance": 8804.074789012804,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15393,
+                  41.435471
+              ]
+          },
+          "properties": {
+              "id": 209962,
+              "label": "Cruz de t\u00e9rmino de Horta",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Creu%20terme%20Horta.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Cruz_de_t%C3%A9rmino_de_Horta",
+              "article_title": "Cruz de t\u00e9rmino de Horta",
+              "article_language_code": "es",
+              "distance": 7882.6779310638585,
+              "marker_type_id": "sculpture",
+              "inception_date": "1952-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.17472,
+                  41.4303
+              ]
+          },
+          "properties": {
+              "id": 210855,
+              "label": "Estaci\u00f3n de Virrei Amat",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/L5%20Vall%20d%27Hebron-Horta%20013.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Virrei_Amat",
+              "article_title": "Estaci\u00f3n de Virrei Amat",
+              "article_language_code": "es",
+              "distance": 9608.921093436293,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.138055555,
+                  41.508333333
+              ]
+          },
+          "properties": {
+              "id": 212460,
+              "label": "Centro Comercial Baricentro",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Interior%20centro%20comercial.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Centro_Comercial_Baricentro",
+              "article_title": "Centro Comercial Baricentro",
+              "article_language_code": "es",
+              "distance": 5682.737674442548,
+              "marker_type_id": "commercialBuilding",
+              "inception_date": "1980-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.139222222,
+                  41.405416666
+              ]
+          },
+          "properties": {
+              "id": 217759,
+              "label": "Nimfa que es pentina",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Nimfa%20que%20es%20pentina%20-%20001.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Nimfa_que_es_pentina",
+              "article_title": "Nimfa que es pentina",
+              "article_language_code": "es",
+              "distance": 9661.240381111891,
+              "marker_type_id": "sculpture",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.152033333,
+                  41.535080555
+              ]
+          },
+          "properties": {
+              "id": 218188,
+              "label": "Castillo de Santiga",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20Santiga.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Castell_de_Santiga",
+              "article_title": "Castell de Santiga",
+              "article_language_code": "ca",
+              "distance": 8485.06348194807,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.125278,
+                  41.398611
+              ]
+          },
+          "properties": {
+              "id": 220754,
+              "label": "Estaci\u00f3n de Sarri\u00e0",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20de%20Sarri%C3%A0.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Sarri%C3%A1",
+              "article_title": "Estaci\u00f3n de Sarri\u00e1",
+              "article_language_code": "es",
+              "distance": 9827.857034834833,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14364,
+                  41.41211
+              ]
+          },
+          "properties": {
+              "id": 222604,
+              "label": "Viaducto de Vallcarca",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/107%20Viaducte%20de%20Vallcarca%20%28Barcelona%29.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Viaducto_de_Vallcarca",
+              "article_title": "Viaducto de Vallcarca",
+              "article_language_code": "es",
+              "distance": 9229.598935784892,
+              "marker_type_id": "bridge",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.11396,
+                  41.492
+              ]
+          },
+          "properties": {
+              "id": 223746,
+              "label": "Castillo de San Marcial",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castillo%20de%20Sant%20Marcal.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_San_Marcial",
+              "article_title": "Castillo de San Marcial",
+              "article_language_code": "es",
+              "distance": 3041.022447381236,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.1575,
+                  41.44555556
+              ]
+          },
+          "properties": {
+              "id": 224414,
+              "label": "Can Masdeu",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Can%20Masdeu%20-%20Centro%20Social%20Ocupado%20con%20huertos.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Can_Masdeu",
+              "article_title": "Can Masdeu",
+              "article_language_code": "es",
+              "distance": 7475.009544304406,
+              "marker_type_id": "house",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.17291667,
+                  41.43069444
+              ]
+          },
+          "properties": {
+              "id": 251296,
+              "label": "Santuario de Santa Eulalia de Vilapicina",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sta%20Eul%C3%A0lia%20Vilapiscina%20-%20Barcelona%20%28Catalonia%29-08019-2886.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Santuario_de_Santa_Eulalia_de_Vilapicina",
+              "article_title": "Santuario de Santa Eulalia de Vilapicina",
+              "article_language_code": "es",
+              "distance": 9461.222837594385,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.11917,
+                  41.3988
+              ]
+          },
+          "properties": {
+              "id": 252232,
+              "label": "Estaci\u00f3n de Reina Elisenda",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/FGC%20Reina%20Elisenda%20de%20nit.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Reina_Elisenda",
+              "article_title": "Estaci\u00f3n de Reina Elisenda",
+              "article_language_code": "es",
+              "distance": 9627.69722312253,
+              "marker_type_id": "subterranea",
+              "inception_date": "1976-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.137091,
+                  41.410024
+              ]
+          },
+          "properties": {
+              "id": 252541,
+              "label": "Estaci\u00f3n de Avinguda Tibidabo",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%20Metro%20-%20Avinguda%20Tibidabo.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Avenida_Tibidabo",
+              "article_title": "Estaci\u00f3n de Avenida Tibidabo",
+              "article_language_code": "es",
+              "distance": 9129.689690962727,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.08416667,
+                  41.43
+              ]
+          },
+          "properties": {
+              "id": 253709,
+              "label": "T\u00faneles de Vallvidrera",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Boca%20nord%20t%C3%BAnel%20de%20Vallvidrera.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/T%C3%BAneles_de_Vallvidrera",
+              "article_title": "T\u00faneles de Vallvidrera",
+              "article_language_code": "es",
+              "distance": 5619.867659711568,
+              "marker_type_id": "tunnel",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15282222,
+                  41.499325
+              ]
+          },
+          "properties": {
+              "id": 271899,
+              "label": "Centro de Interpretaci\u00f3n del Patrimonio Mol\u00ed d'en Rata",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Exterior%20mol%C3%AD%20d%27en%20Rata.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Centro_de_Interpretaci%C3%B3n_del_Patrimonio_Mol%C3%AD_d%27en_Rata",
+              "article_title": "Centro de Interpretaci\u00f3n del Patrimonio Mol\u00ed d'en Rata",
+              "article_language_code": "es",
+              "distance": 6350.532061966587,
+              "marker_type_id": "pointOfInterest",
+              "inception_date": "2005-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.188058333,
+                  41.486813888
+              ]
+          },
+          "properties": {
+              "id": 271900,
+              "label": "Museo Municipal de Montcada",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Museo_Municipal_de_Montcada",
+              "article_title": "Museo Municipal de Montcada",
+              "article_language_code": "es",
+              "distance": 8958.350598267174,
+              "marker_type_id": "pointOfInterest",
+              "inception_date": "1982-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.026466666,
+                  41.494530555
+              ]
+          },
+          "properties": {
+              "id": 271909,
+              "label": "Museo Municipal. El Castillo-Ecomuseo Urbano",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20Rub%C3%AD.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Museo_Municipal._El_Castillo-Ecomuseo_Urbano",
+              "article_title": "Museo Municipal. El Castillo-Ecomuseo Urbano",
+              "article_language_code": "es",
+              "distance": 4791.718369394399,
+              "marker_type_id": "pointOfInterest",
+              "inception_date": "1996-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.13896,
+                  41.491231
+              ]
+          },
+          "properties": {
+              "id": 272557,
+              "label": "Museo de Arte de Cerdanyola",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Vista%20General%20Museu%20d%27Art%20de%20Cerdanyola%20desembre%202013.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Museo_de_Arte_de_Cerdanyola",
+              "article_title": "Museo de Arte de Cerdanyola",
+              "article_language_code": "es",
+              "distance": 4985.96338973582,
+              "marker_type_id": "pointOfInterest",
+              "inception_date": "2009-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.180896212,
+                  41.435279027
+              ]
+          },
+          "properties": {
+              "id": 281291,
+              "label": "Som Multiespai",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%20-%20Centro%20Comercial%20Heron%20City%201.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/SOM_Multiespai",
+              "article_title": "SOM Multiespai",
+              "article_language_code": "es",
+              "distance": 9735.102461106697,
+              "marker_type_id": "commercialBuilding",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.108611111,
+                  41.546388888
+              ]
+          },
+          "properties": {
+              "id": 293951,
+              "label": "Monumento Sallar\u00e8s i Pla",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sabadell%20-%20Josep%20Clar%C3%A0%20-%20A%20Sellar%C3%A8s%20i%20Pla.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Monument_Sallar%C3%A8s_i_Pla",
+              "article_title": "Monument Sallar\u00e8s i Pla",
+              "article_language_code": "ca",
+              "distance": 7684.655046791198,
+              "marker_type_id": "sculpture",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.102222222,
+                  41.542222222
+              ]
+          },
+          "properties": {
+              "id": 293953,
+              "label": "Monumento a Anselm Clav\u00e9",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monument%20a%20Josep%20Anselm%20Clav%C3%A9%20%28Sabadell%29.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Monument_a_Anselm_Clav%C3%A9",
+              "article_title": "Monument a Anselm Clav\u00e9",
+              "article_language_code": "ca",
+              "distance": 7092.3554681249,
+              "marker_type_id": "sculpture",
+              "inception_date": "1949-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.143767,
+                  41.404181
+              ]
+          },
+          "properties": {
+              "id": 296083,
+              "label": "Edificio Illescas",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Edifici%20Illescas-Barcelona%20%28Catalonia%29.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Edifici_Illescas",
+              "article_title": "Edifici Illescas",
+              "article_language_code": "ca",
+              "distance": 9974.090638070958,
+              "marker_type_id": "residentialBuilding",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.119258,
+                  41.422808
+              ]
+          },
+          "properties": {
+              "id": 296221,
+              "label": "Torre de les Aig\u00fces de Dos Rius",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/JosepAmarg%C3%B3s-Tibidabo-TorreDosrius-1617sh.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Torre_de_les_Aig%C3%BCes_de_Dos_Rius",
+              "article_title": "Torre de les Aig\u00fces de Dos Rius",
+              "article_language_code": "es",
+              "distance": 7167.323058172721,
+              "marker_type_id": "tower",
+              "inception_date": "1902-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.126278,
+                  41.410016
+              ]
+          },
+          "properties": {
+              "id": 296222,
+              "label": "Convento de las Hermanas Oblatas del Sant\u00edsimo Redentor",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Martorell-conventSantRedemptor-Bellesguard-1255sh.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Convento_de_las_Hermanas_Oblatas_del_Sant%C3%ADsimo_Redentor",
+              "article_title": "Convento de las Hermanas Oblatas del Sant\u00edsimo Redentor",
+              "article_language_code": "es",
+              "distance": 8702.160822674556,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.163872,
+                  41.436876
+              ]
+          },
+          "properties": {
+              "id": 296225,
+              "label": "Aq\u00fceducte Dosrius",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Aq%C3%BCeducte%20Dosrius.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Aq%C3%BCeducte_Dosrius",
+              "article_title": "Aq\u00fceducte Dosrius",
+              "article_language_code": "ca",
+              "distance": 8448.314769634711,
+              "marker_type_id": "bridge",
+              "inception_date": "1869-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.173844,
+                  41.458919
+              ]
+          },
+          "properties": {
+              "id": 296226,
+              "label": "Acueducto del Vall\u00e8s",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Parc%20de%20l%27Aq%C3%BCeducte%20-%20202201%20-%206.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Aq%C3%BCeducte_del_Vall%C3%A8s",
+              "article_title": "Aq\u00fceducte del Vall\u00e8s",
+              "article_language_code": "ca",
+              "distance": 8110.643613490767,
+              "marker_type_id": "bridge",
+              "inception_date": "1825-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.178082,
+                  41.456195
+              ]
+          },
+          "properties": {
+              "id": 296227,
+              "label": "Acueducto del Baix Vall\u00e8s",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Aq%C3%BCeducte%20del%20Vall%C3%A8s-a3.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Aq%C3%BCeducte_del_Baix_Vall%C3%A8s",
+              "article_title": "Aq\u00fceducte del Baix Vall\u00e8s",
+              "article_language_code": "ca",
+              "distance": 8539.66804631213,
+              "marker_type_id": "bridge",
+              "inception_date": "1825-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.109311,
+                  41.5492
+              ]
+          },
+          "properties": {
+              "id": 302927,
+              "label": "Museo de Arte de Sabadell",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Casa%20Turull%20%28Sabadell%29.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Museo_de_Arte_de_Sabadell",
+              "article_title": "Museo de Arte de Sabadell",
+              "article_language_code": "es",
+              "distance": 8000.3654844430985,
+              "marker_type_id": "pointOfInterest",
+              "inception_date": "1980-05-30 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.119845,
+                  41.422816
+              ]
+          },
+          "properties": {
+              "id": 303014,
+              "label": "Muntanya Russa",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Muntanya%20Russa%20-%20Tibidabo.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Muntanya_Russa",
+              "article_title": "Muntanya Russa",
+              "article_language_code": "es",
+              "distance": 7188.512182130704,
+              "marker_type_id": "pointOfInterest",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.13472222,
+                  41.48
+              ]
+          },
+          "properties": {
+              "id": 303220,
+              "label": "Poblado \u00edbero Can Oliv\u00e9",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/PoblatIbericCanOliver1.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Poblado_%C3%ADbero_Can_Oliv%C3%A9",
+              "article_title": "Poblado \u00edbero Can Oliv\u00e9",
+              "article_language_code": "es",
+              "distance": 4488.224816000597,
+              "marker_type_id": "ancientCity",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.120071,
+                  41.42221
+              ]
+          },
+          "properties": {
+              "id": 303391,
+              "label": "Casino Internacional Tibidabo",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Atv2885.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Casino_Internacional_Tibidabo",
+              "article_title": "Casino Internacional Tibidabo",
+              "article_language_code": "es",
+              "distance": 7257.151525643126,
+              "marker_type_id": "commercialBuilding",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.159843,
+                  41.416792
+              ]
+          },
+          "properties": {
+              "id": 319570,
+              "label": "Ermita de Nuestra Se\u00f1ora de F\u00e1tima",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20la%20Mare%20de%20D%C3%A9u%20de%20F%C3%A0tima.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Ermita_de_Nuestra_Se%C3%B1ora_de_F%C3%A1tima_(Barcelona)",
+              "article_title": "Ermita de Nuestra Se\u00f1ora de F\u00e1tima (Barcelona)",
+              "article_language_code": "es",
+              "distance": 9669.401898070939,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14388889,
+                  41.43861111
+              ]
+          },
+          "properties": {
+              "id": 337214,
+              "label": "Campo de concentraci\u00f3n de Horta",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Campo_de_concentraci%C3%B3n_de_Horta",
+              "article_title": "Campo de concentraci\u00f3n de Horta",
+              "article_language_code": "es",
+              "distance": 7019.291983118843,
+              "marker_type_id": "prisonCamp",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.17962,
+                  41.43531
+              ]
+          },
+          "properties": {
+              "id": 337227,
+              "label": "Can Valent",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Masia%20Can%20Valent.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Can_Valent",
+              "article_title": "Can Valent",
+              "article_language_code": "es",
+              "distance": 9642.380988986946,
+              "marker_type_id": "house",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.06877,
+                  41.39682
+              ]
+          },
+          "properties": {
+              "id": 337858,
+              "label": "Castillo de la Pe\u00f1a del Moro",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Torre%20medieval%20de%20la%20Penya%20del%20Moro%20-%2020210808%20163152.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_la_Pe%C3%B1a_del_Moro",
+              "article_title": "Castillo de la Pe\u00f1a del Moro",
+              "article_language_code": "es",
+              "distance": 9356.837943275323,
+              "marker_type_id": "tower",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.05694,
+                  41.3953
+              ]
+          },
+          "properties": {
+              "id": 339645,
+              "label": "Ermita de La Salud",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20la%20Salut%20-%20Sant%20Feliu%20de%20Llobregat%20-%202011.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Ermita_de_La_Salud_(San_Fel%C3%ADu_de_Llobregat)",
+              "article_title": "Ermita de La Salud (San Fel\u00edu de Llobregat)",
+              "article_language_code": "es",
+              "distance": 9678.944462640762,
+              "marker_type_id": "temple",
+              "inception_date": "1800-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.178179,
+                  41.44211
+              ]
+          },
+          "properties": {
+              "id": 339784,
+              "label": "Escullera (monumento)",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Escullera%20monument.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Escullera_(monumento)",
+              "article_title": "Escullera (monumento)",
+              "article_language_code": "es",
+              "distance": 9164.196443003484,
+              "marker_type_id": "sculpture",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.0308,
+                  41.4122
+              ]
+          },
+          "properties": {
+              "id": 340687,
+              "label": "Castillo de Castellciur\u00f3",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castellciur%C3%B3%2C%20Molins-3.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_Castellciur%C3%B3",
+              "article_title": "Castillo de Castellciur\u00f3",
+              "article_language_code": "es",
+              "distance": 8662.864516480638,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.161712,
+                  41.419276
+              ]
+          },
+          "properties": {
+              "id": 345239,
+              "label": "Los b\u00fankers antia\u00e9reos del Carmelo",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/049%20Tur%C3%B3%20de%20la%20Rovira%2C%20antiga%20bateria%20antia%C3%A8ria.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Bater%C3%ADas_antia%C3%A9reas_del_Carmelo",
+              "article_title": "Bater\u00edas antia\u00e9reas del Carmelo",
+              "article_language_code": "es",
+              "distance": 9577.852873803418,
+              "marker_type_id": "militaryBuilding",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.08546,
+                  41.47425
+              ]
+          },
+          "properties": {
+              "id": 353447,
+              "label": "Monasterio de Sant Cugat",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monestir%20de%20Sant%20Cugat%20-%20Vista%20general.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Monasterio_de_San_Cugat_del_Vall%C3%A9s",
+              "article_title": "Monasterio de San Cugat del Vall\u00e9s",
+              "article_language_code": "es",
+              "distance": 792.0732873414387,
+              "marker_type_id": "temple",
+              "inception_date": "0801-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.128833,
+                  41.407417
+              ]
+          },
+          "properties": {
+              "id": 357748,
+              "label": "St George\u2019s Church, Barcelona",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/St%20Georges%20Barcelona%20interior.jpg",
+              "article": "https:\/\/en.wikipedia.org\/wiki\/St_George%27s_Church,_Barcelona",
+              "article_title": "St George's Church, Barcelona",
+              "article_language_code": "en",
+              "distance": 9055.30303140074,
+              "marker_type_id": "temple",
+              "inception_date": "1905-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.148311,
+                  41.480126
+              ]
+          },
+          "properties": {
+              "id": 364132,
+              "label": "Aq\u00fceducte de Canaletes",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/14-08-05-cerdanyola-RalfR-040.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Aq%C3%BCeducte_de_Canaletes",
+              "article_title": "Aq\u00fceducte de Canaletes",
+              "article_language_code": "ca",
+              "distance": 5620.057368181313,
+              "marker_type_id": "bridge",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.142665,
+                  41.479959
+              ]
+          },
+          "properties": {
+              "id": 364135,
+              "label": "Pont de Cerdanyola del Vall\u00e8s",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/14-08-00-wlm-es-RalfR-03.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Pont_de_Cerdanyola_del_Vall%C3%A8s",
+              "article_title": "Pont de Cerdanyola del Vall\u00e8s",
+              "article_language_code": "ca",
+              "distance": 5149.910591683477,
+              "marker_type_id": "bridge",
+              "inception_date": "1900-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.976588,
+                  41.439992
+              ]
+          },
+          "properties": {
+              "id": 364174,
+              "label": "Aq\u00fceducte del Mas d'en Puig",
+              "label_language_code": "en",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Aq%C3%BCeducte_del_Mas_d%27en_Puig",
+              "article_title": "Aq\u00fceducte del Mas d'en Puig",
+              "article_language_code": "ca",
+              "distance": 9785.330775536402,
+              "marker_type_id": "bridge",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14972222,
+                  41.42027778
+              ]
+          },
+          "properties": {
+              "id": 372409,
+              "label": "Estaci\u00f3n de El Coll | La Teixonera",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/El%20Coll%20-%20La%20Teixonera%2C%20andanes.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_El_Coll-La_Teixonera",
+              "article_title": "Estaci\u00f3n de El Coll-La Teixonera",
+              "article_language_code": "es",
+              "distance": 8818.183399958078,
+              "marker_type_id": "subterranea",
+              "inception_date": "2010-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.1825,
+                  41.44888889
+              ]
+          },
+          "properties": {
+              "id": 385853,
+              "label": "Estaci\u00f3n de Trinitat Nova",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Metro%20Barcelona%20station%20Trinitat%20Nova%20L4%20L11.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Trinitat_Nova",
+              "article_title": "Estaci\u00f3n de Trinitat Nova",
+              "article_language_code": "es",
+              "distance": 9169.595381699171,
+              "marker_type_id": "subterranea",
+              "inception_date": "1999-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.127247,
+                  41.406611
+              ]
+          },
+          "properties": {
+              "id": 404236,
+              "label": "Torre Vilana",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/038%20Can%20Vilana%20%28Centre%20M%C3%A8dic%20Teknon%29.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Torre_Vilana",
+              "article_title": "Torre Vilana",
+              "article_language_code": "ca",
+              "distance": 9078.710420453117,
+              "marker_type_id": "residentialBuilding",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15203,
+                  41.4311
+              ]
+          },
+          "properties": {
+              "id": 404878,
+              "label": "Can Travi Nou",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/62%20Can%20Travi%20Nou%2C%20fa%C3%A7ana%20principal.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Can_Travi_Nou",
+              "article_title": "Can Travi Nou",
+              "article_language_code": "es",
+              "distance": 8083.108046824912,
+              "marker_type_id": "house",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.01744,
+                  41.4096
+              ]
+          },
+          "properties": {
+              "id": 404884,
+              "label": "Canal de la Infanta",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/SolerFerrer-MolinsRei-CanalInfanta-2587.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Canal_de_la_Infanta",
+              "article_title": "Canal de la Infanta",
+              "article_language_code": "es",
+              "distance": 9489.480338927888,
+              "marker_type_id": "civilEngineeringConstruction",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.07277778,
+                  41.55944444
+              ]
+          },
+          "properties": {
+              "id": 405509,
+              "label": "Castellarnau",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castellarnau%2C%20o%20Torre%20Berardo.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castellarnau",
+              "article_title": "Castellarnau",
+              "article_language_code": "es",
+              "distance": 8806.146443708185,
+              "marker_type_id": "house",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.99671,
+                  41.4218
+              ]
+          },
+          "properties": {
+              "id": 405642,
+              "label": "Castillo de Pallej\u00e1",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20de%20Pallej%C3%A0%20Catalonia.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Castillo_de_Pallej%C3%A1",
+              "article_title": "Castillo de Pallej\u00e1",
+              "article_language_code": "es",
+              "distance": 9578.483921489522,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.11438,
+                  41.4556
+              ]
+          },
+          "properties": {
+              "id": 410937,
+              "label": "Ermita de Sant Adjutori",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20Sant%20Adjutori%20Sant%20Cugat.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Ermita_de_San_Adiutor",
+              "article_title": "Ermita de San Adiutor",
+              "article_language_code": "es",
+              "distance": 3931.7721174247376,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.121334,
+                  41.443653
+              ]
+          },
+          "properties": {
+              "id": 410938,
+              "label": "Ermita de Sant Medir",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Ermita%20de%20Sant%20Medir%202.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Ermita_de_Sant_Medir",
+              "article_title": "Ermita de Sant Medir",
+              "article_language_code": "es",
+              "distance": 5305.580493978737,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.05830556,
+                  41.41638889
+              ]
+          },
+          "properties": {
+              "id": 410941,
+              "label": "Ermita de Santa Cruz de Olorde",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Santa%20Creu%20d%27Olorda.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Ermita_de_Santa_Cruz_de_Olorde",
+              "article_title": "Ermita de Santa Cruz de Olorde",
+              "article_language_code": "es",
+              "distance": 7370.076104042257,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.995527777,
+                  41.420916666
+              ]
+          },
+          "properties": {
+              "id": 411414,
+              "label": "Estaci\u00f3n de Pallej\u00e0",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20de%20Pallej%C3%A0.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Pallej%C3%A1",
+              "article_title": "Estaci\u00f3n de Pallej\u00e1",
+              "article_language_code": "es",
+              "distance": 9717.562638241083,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.101038888,
+                  41.542666666
+              ]
+          },
+          "properties": {
+              "id": 411418,
+              "label": "Estaci\u00f3n de Sabadell-Estaci\u00f3",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Sabadell%20estaci%C3%B3.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Sabadell-Estaci%C3%B3",
+              "article_title": "Estaci\u00f3n de Sabadell-Estaci\u00f3",
+              "article_language_code": "es",
+              "distance": 7116.28551725303,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.11562,
+                  41.5464
+              ]
+          },
+          "properties": {
+              "id": 411419,
+              "label": "Estaci\u00f3n de Sabadell Centro",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20de%20Sabadell%20Centre.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Sabadell_Centro",
+              "article_title": "Estaci\u00f3n de Sabadell Centro",
+              "article_language_code": "es",
+              "distance": 7881.022390968645,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.973288888,
+                  41.446741666
+              ]
+          },
+          "properties": {
+              "id": 411422,
+              "label": "Estaci\u00f3n de Sant Andreu de la Barca",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20de%20Sant%20Andreu%20de%20la%20Barca.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_San_Andr%C3%A9s_de_la_Barca",
+              "article_title": "Estaci\u00f3n de San Andr\u00e9s de la Barca",
+              "article_language_code": "es",
+              "distance": 9716.097036401421,
+              "marker_type_id": "subterranea",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15152778,
+                  41.42008333
+              ]
+          },
+          "properties": {
+              "id": 412713,
+              "label": "iglesia de Nuestra Se\u00f1ora del Coll",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Coll01.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Iglesia_de_Nuestra_Se%C3%B1ora_del_Coll_(Barcelona)",
+              "article_title": "Iglesia de Nuestra Se\u00f1ora del Coll (Barcelona)",
+              "article_language_code": "es",
+              "distance": 8933.119538703524,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.09777778,
+                  41.41527778
+              ]
+          },
+          "properties": {
+              "id": 413087,
+              "label": "Mina Grott",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/040%20Mina%20Grott%2C%20cam%C3%AD%20del%20Pant%C3%A0%20%28Vallvidrera%2C%20Barcelona%29.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Mina_Grott",
+              "article_title": "Mina Grott",
+              "article_language_code": "es",
+              "distance": 7386.111999599415,
+              "marker_type_id": "tunnel",
+              "inception_date": "1900-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.06883,
+                  41.3968
+              ]
+          },
+          "properties": {
+              "id": 413523,
+              "label": "Poblado \u00edbero Pe\u00f1a del Moro",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Penya%20del%20Moro%20Sant%20Just%20Desvern%204.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Poblado_%C3%ADbero_Pe%C3%B1a_del_Moro",
+              "article_title": "Poblado \u00edbero Pe\u00f1a del Moro",
+              "article_language_code": "es",
+              "distance": 9358.512167386993,
+              "marker_type_id": "geographicalFeature",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.026388888,
+                  41.490277777
+              ]
+          },
+          "properties": {
+              "id": 413524,
+              "label": "Poblado \u00edbero de Can Fatj\u00f3",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Poblado_%C3%ADbero_de_Can_Fatj%C3%B3",
+              "article_title": "Poblado \u00edbero de Can Fatj\u00f3",
+              "article_language_code": "es",
+              "distance": 4665.4695667744545,
+              "marker_type_id": "ancientCity",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.07667,
+                  41.4783
+              ]
+          },
+          "properties": {
+              "id": 413567,
+              "label": "puente de Can Vernet",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pont%20de%20Can%20Vernet%20Sant%20Cugat.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Puente_de_Can_Vernet",
+              "article_title": "Puente de Can Vernet",
+              "article_language_code": "es",
+              "distance": 424.20466023872206,
+              "marker_type_id": "sculpture",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15361111,
+                  41.41055556
+              ]
+          },
+          "properties": {
+              "id": 413625,
+              "label": "Real Santuario de San Jos\u00e9 de la Monta\u00f1a",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/666%20Santuari%20de%20Sant%20Josep%20de%20la%20Muntanya%20%28Barcelona%29%2C%20fa%C3%A7ana%20sud.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Real_Santuario_de_San_Jos%C3%A9_de_la_Monta%C3%B1a",
+              "article_title": "Real Santuario de San Jos\u00e9 de la Monta\u00f1a",
+              "article_language_code": "es",
+              "distance": 9860.730456521544,
+              "marker_type_id": "temple",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14111111,
+                  41.41722222
+              ]
+          },
+          "properties": {
+              "id": 419376,
+              "label": "Estaci\u00f3n de Penitents",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Estaci%C3%B3%20de%20Penitents.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Penitents",
+              "article_title": "Estaci\u00f3n de Penitents",
+              "article_language_code": "es",
+              "distance": 8643.01449868825,
+              "marker_type_id": "subterranea",
+              "inception_date": "1985-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15222,
+                  41.41349
+              ]
+          },
+          "properties": {
+              "id": 419974,
+              "label": "Can Montaner de Dalt",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%204048.JPG",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Can_Muntaner_de_Dalt",
+              "article_title": "Can Muntaner de Dalt",
+              "article_language_code": "es",
+              "distance": 9532.677284372288,
+              "marker_type_id": "house",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.156666666,
+                  41.438055555
+              ]
+          },
+          "properties": {
+              "id": 421095,
+              "label": "Estaci\u00f3n de Valldaura",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Barcelona%20Metro%20-%20Valldaura.jpg",
+              "article": "https:\/\/es.wikipedia.org\/wiki\/Estaci%C3%B3n_de_Valldaura",
+              "article_title": "Estaci\u00f3n de Valldaura",
+              "article_language_code": "es",
+              "distance": 7884.846792877981,
+              "marker_type_id": "subterranea",
+              "inception_date": "2001-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.143305,
+                  41.431593
+              ]
+          },
+          "properties": {
+              "id": 421152,
+              "label": "Pol\u00edgon de Montbau",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Gir%C3%A1ldez-L%C3%B3pez-Sub%C3%ADas%20Montbau%2001.JPG",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Pol%C3%ADgon_de_Montbau",
+              "article_title": "Pol\u00edgon de Montbau",
+              "article_language_code": "ca",
+              "distance": 7525.935553606874,
+              "marker_type_id": "residentialBuilding",
+              "inception_date": "1962-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.161979528,
+                  41.42963114
+              ]
+          },
+          "properties": {
+              "id": 421232,
+              "label": "Puente de la Riera de Horta",
+              "label_language_code": "es",
+              "image": null,
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Pont_de_la_Riera_d%27Horta",
+              "article_title": "Pont de la Riera d'Horta",
+              "article_language_code": "ca",
+              "distance": 8813.772021181212,
+              "marker_type_id": "bridge",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14326919,
+                  41.442204413
+              ]
+          },
+          "properties": {
+              "id": 425734,
+              "label": "Castillo del Fort\u00ed",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Castell%20Fort%C3%AD%20-%20P1180914.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Castell_del_Fort%C3%AD",
+              "article_title": "Castell del Fort\u00ed",
+              "article_language_code": "ca",
+              "distance": 6720.744214794039,
+              "marker_type_id": "castle",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.15221,
+                  41.4111
+              ]
+          },
+          "properties": {
+              "id": 425782,
+              "label": "Edifici d'habitatges Coll del Portell",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/126%20La%20Casa%20de%20Ferro%2C%20av.%20Coll%20del%20Portell%2052%20%28Barcelona%29.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/La_Casa_de_Ferro",
+              "article_title": "La Casa de Ferro",
+              "article_language_code": "ca",
+              "distance": 9741.309523147373,
+              "marker_type_id": "residentialBuilding",
+              "inception_date": "1971-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14296,
+                  41.41243
+              ]
+          },
+          "properties": {
+              "id": 425838,
+              "label": "Habitatges Hospital Militar",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/109%20Habitatges%20de%20l%27Hospital%20Militar%2C%20av.%20Vallcarca%20125%20%28Barcelona%29.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Habitatges_Hospital_Militar",
+              "article_title": "Habitatges Hospital Militar",
+              "article_language_code": "ca",
+              "distance": 9168.183020265475,
+              "marker_type_id": "residentialBuilding",
+              "inception_date": "1953-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.1924,
+                  41.448
+              ]
+          },
+          "properties": {
+              "id": 426009,
+              "label": "Isla Bar\u00f3n de Viver",
+              "label_language_code": "es",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Pla%C3%A7a%20del%20Bar%C3%B3%20de%20Viver%2002.JPG",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Illa_Bar%C3%B3_de_Viver",
+              "article_title": "Illa Bar\u00f3 de Viver",
+              "article_language_code": "ca",
+              "distance": 9972.04103120242,
+              "marker_type_id": "residentialBuilding",
+              "inception_date": "1985-01-01 00:00:00",
+              "country_code": "Q29"
+          }
+      },
+      {
+          "type": "Feature",
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  2.14489,
+                  41.41149
+              ]
+          },
+          "properties": {
+              "id": 426345,
+              "label": "A l'Argentina",
+              "label_language_code": "en",
+              "image": "http:\/\/commons.wikimedia.org\/wiki\/Special:FilePath\/Monument%20a%20l%27Argentina.jpg",
+              "article": "https:\/\/ca.wikipedia.org\/wiki\/Monument_Barcelona_a_l%27Argentina",
+              "article_title": "Monument Barcelona a l'Argentina",
+              "article_language_code": "ca",
+              "distance": 9345.593733861444,
+              "marker_type_id": "sculpture",
+              "inception_date": null,
+              "country_code": "Q29"
+          }
+      }
+  ]
+}

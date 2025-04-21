@@ -1,0 +1,21 @@
+.mb-modal-content {
+
+    animation: slideDownFadeIn 0.5s;
+
+    @keyframes slideDownFadeIn {
+        0% {
+            opacity: 0;
+            transform: translateY(-20px);
+        }
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+
+    min-width: 90%;
+    @include respond-to(md) {
+      min-width: 500px;
+    }
+}

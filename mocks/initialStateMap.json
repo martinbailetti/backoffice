@@ -1,0 +1,23 @@
+{
+  "userData": {
+    "data": {
+      "email": "martinbailetti@gmail.com",
+      "name": "martinbailetti"
+    },
+    "loading": "idle",
+    "error": null
+  },
+  "mapData": {
+    "data": [],
+    "loading": "idle",
+    "error": false,
+    "searchCoordinates": {
+      "latitude": 41.4804789,
+      "longitude": 2.14326919
+    },
+    "currentCoordinates": {
+      "latitude": 41.4804789,
+      "longitude": 2.14326919
+    }
+  }
+}

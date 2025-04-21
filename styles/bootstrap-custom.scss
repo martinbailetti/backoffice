@@ -1,0 +1,66 @@
+.offcanvas-body {
+  .nav-item {
+
+    &.dropdown {
+      .dropdown-menu {
+        .dropdown-item {
+          color: $dark;
+
+          &.active {
+            background-color: info;
+            color: black;
+            text-shadow: 0 0 0.05em black;
+          }
+
+          &:hover {
+            &:not(.active) {
+              background-color: aquamarine;
+              color: black;
+              text-shadow: 0 0 0.05em black;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
+.dropdown {
+  .dropdown-menu {
+    .dropdown-item {
+      color: $dark;
+
+      &.active {
+        background-color: info;
+        color: black;
+        text-shadow: 0 0 0.05em black;
+      }
+
+      &:hover {
+        &:not(.active) {
+          background-color: aquamarine;
+          color: black;
+          text-shadow: 0 0 0.05em black;
+        }
+      }
+    }
+  }
+}
+
+.container {
+  max-width: 100%;
+}
+
+.toolbar {
+  .dropdown-menu {
+    .dropdown-item {
+      color: $dark;
+
+      &:hover {
+        background-color: $info;
+        color: $info;
+      }
+    }
+  }
+}

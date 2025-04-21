@@ -1,0 +1,28 @@
+$auth-layer-max-width: 580px;
+$message-max-width: 300px;
+$blue: #6ac9da;
+$media-max-small-breakpoint: 991.98px;
+$media-min-medium-breakpoint: 992px;
+$media-min-big-breakpoint: 1200px;
+
+$logo-width: 80px;
+$article-viewer-bar-height: 56px;
+
+$bg-black-opacity: rgba(0, 0, 0, 0.53);
+
+$navbar-dark-color: #fff;
+$navbar-dark-active-color: $blue;
+$dropdown-link-color: #fff;
+$navbar-dark-hover-color: $blue;
+$dropdown-link-hover-bg: rgb(33, 37, 41);
+$dropdown-link-hover-color: $blue;
+
+
+$breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);

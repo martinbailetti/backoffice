@@ -1,0 +1,106 @@
+
+const table = {
+  token: "GROUPS_TABLE",
+  paginationRowsPerPageOptions: [50, 100],
+  paginationRowsPerPage: 50,
+  rowTitle: "GroupId",
+  onlyFilteredQueries: true,
+  result: {
+    apiFunction: "licenses.getGroups",
+  },
+  sort: { column: "GroupId", direction: "asc" },
+  customHeadStyles: {
+    Total: { justifyContent: "flex-end" },
+  },
+  columns: [
+    {
+      name: "",
+      key: "actions",
+      selector: true,
+      sortable: true,
+      width: "60px",
+      reorder: true,
+    },
+    {
+      name: "GroupId",
+      key: "GroupId",
+      selector: true,
+      sortable: true,
+      width: "250px",
+      reorder: true,
+    },
+    {
+      name: "devices",
+      key: "devices",
+      selector: true,
+      sortable: false,
+      width: "200px",
+      reorder: true,
+    },
+    {
+      name: "SerialNumber",
+      key: "SerialNumber",
+      selector: true,
+      sortable: true,
+      width: "150px",
+    },
+    {
+      name: "AppTitle",
+      key: "AppTitle",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "100px",
+    },
+    {
+      name: "AppVersion",
+      key: "AppVersion",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "100px",
+    },
+    {
+      name: "AppDateTime",
+      key: "AppDateTime",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "160px",
+    },
+    {
+      name: "LastPingTimeStamp",
+      key: "LastPingTimeStamp",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "160px",
+    },
+    {
+      name: "Owner",
+      key: "Owner",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "120px",
+    },
+    {
+      name: "Description",
+      key: "Description",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "180px",
+    },
+    {
+      name: "LastDate",
+      key: "LastDate",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "160px",
+    }
+  ],
+};
+
+export default table;

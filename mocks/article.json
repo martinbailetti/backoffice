@@ -1,0 +1,19 @@
+{
+  "batchcomplete": "",
+  "query": {
+      "normalized": [
+          {
+              "from": "Casa_Dolors_Calm",
+              "to": "Casa Dolors Calm"
+          }
+      ],
+      "pages": {
+          "1414764": {
+              "pageid": 1414764,
+              "ns": 0,
+              "title": "Casa Dolors Calm",
+              "extract": "La casa Dolors Calm, se encuentra situada en el n\u00famero 54 de la rambla de Catalu\u00f1a en Barcelona.\nEl encargo de la reforma del edificio ya existente del a\u00f1o 1878 se hizo al arquitecto Jos\u00e9 Vilaseca y Casanovas (1848-1910), para la construcci\u00f3n de una nueva fachada y la ornamentaci\u00f3n interior. El proyecto tiene fecha del a\u00f1o 1903.\nLo m\u00e1s importante de esta fachada es la gran tribuna corrida abarcando las cinco plantas principales, en la que se puede ver un trabajo de ebanister\u00eda diferente en cada piso y con vitrales policromados. Por toda la fachada hay un esgrafiado floral de dibujo modernista resaltado por su color granate que por debajo de la tribuna se dibuja alargando los tallos de las flores.\nEn una reconstrucci\u00f3n posterior para a\u00f1adir m\u00e1s plantas de pisos se mutil\u00f3 la cornisa superior del edificio que constaba de elementos escult\u00f3ricos."
+          }
+      }
+  }
+}

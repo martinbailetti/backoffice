@@ -1,0 +1,105 @@
+
+const table = {
+  token: "FACTORY_GROUPS_TABLE",
+  paginationRowsPerPageOptions: [50, 100],
+  paginationRowsPerPage: 50,
+  rowTitle: "GroupId",
+  fixedHeight: true,
+  result: {
+    apiFunction: "factory.getFactoryGroups",
+  },
+  sort: { column: "GroupId", direction: "asc" },
+  customHeadStyles: {
+    Total: { justifyContent: "flex-end" },
+  },
+  columns: [
+    {
+      key: "actions",
+      selector: true,
+      sortable: true,
+      width: "150px",
+    },
+    {
+      name: "SerialNumber",
+      key: "SerialNumber",
+      selector: true,
+      sortable: true,
+      width: "150px",
+    },
+    {
+      name: "AppTitle",
+      key: "AppTitle",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "150px",
+    },
+    {
+      name: "AppVersion",
+      key: "AppVersion",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "150px",
+    },
+    {
+      name: "AppDateTime",
+      key: "AppDateTime",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "160px",
+    },
+    {
+      name: "FactoryMachineSerialNumber",
+      key: "FactoryMachineSerialNumber",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "200px",
+    },
+    {
+      name: "LastPingTimeStamp",
+      key: "LastPingTimeStamp",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "160px",
+    },
+    {
+      name: "Owner",
+      key: "Owner",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "120px",
+    },
+    {
+      name: "Description",
+      key: "Description",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "180px",
+    },
+    {
+      name: "LastDate",
+      key: "LastDate",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "160px",
+    },
+    {
+      name: "Total",
+      key: "Total",
+      selector: true,
+      sortable: true,
+      reorder: true,
+      width: "100px",
+      style: { justifyContent: "flex-end" },
+    }
+  ],
+};
+
+export default table;

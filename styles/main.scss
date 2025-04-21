@@ -1,0 +1,27 @@
+
+@import  "./variables";
+/* $white: #ffffff;
+
+$theme-colors: (
+    "light":      #e0e0df,
+    "dark":       #030303,
+    "primary":    #1c7da1,
+    "secondary":  #3d4f5b,
+    "info":       #ec3562,
+    "success":    #10a055,
+    "warning":    #e5c811,
+    "danger":     #f20719,
+); */
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import './mixins';
+
+@import "./spinner";
+
+@import "./bootstrap-custom";
+
+@import "./custom";
+@import "./modal";
+@import "./loader";
+
+
