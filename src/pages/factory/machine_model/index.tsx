@@ -10,8 +10,11 @@ import FormHeader from "@/components/form/FormHeader";
 import FormWrapper from "@/components/form/FormWrapper";
 import { useTranslation } from "@/context/contextUtils";
 import {
+  createFactoryDevice,
+  deleteFactoryDevice,
   getFactoryMachinesModels,
   getFactoryModels,
+  updateFactoryDevice,
   updateFactoryMachineModel,
   updateFactoryMachinesModels,
 } from "@/api/factory";
@@ -281,8 +284,13 @@ const MachineModel = () => {
     });
   };
 
-  const updateRecord = (row: GenericRecord) => {
+  const updateRecord = async (row: GenericRecord) => {
     console.log("updateRecord", row);
+
+
+    const response = await updateFactoryDevice(row);
+
+
     const machineIndex = recordCurrent.findIndex((machine) => machine.MachineId === row.MachineId);
 
     if (machineIndex < 0) return;
@@ -302,7 +310,22 @@ const MachineModel = () => {
     setRecordCurrent([...recordCurrent]);
   };
 
-  const removeRecord = (row: GenericRecord) => {
+  const removeRecord = async (row: GenericRecord) => {
+
+    console.log("removeRecord", row);
+
+   /*  try {
+      const response = await deleteFactoryDevice(row);
+      console.log("response", response.data);
+      if (response.data.success) {
+        dispatch(setFlashMessage({ message: t("delete_executed_successfully"), type: "success" }));
+      } else {
+        throw new Error(response.data.message);
+      }
+    } catch (error) {
+      dispatch(setError(t("undefined_error")));
+    }
+ */
     const machineIndex = recordCurrent.findIndex((machine) => machine.MachineId === row.MachineId);
 
     if (machineIndex < 0) return;
@@ -333,8 +356,21 @@ const MachineModel = () => {
     setRecordCurrent([...recordCurrent]);
   };
 
-  const createRecord = (device: GenericRecord) => {
+  const createRecord = async (device: GenericRecord) => {
     console.log("device", device);
+
+    try {
+      const response = await createFactoryDevice(device);
+      console.log("response", response.data);
+      if (response.data.success) {
+        dispatch(setFlashMessage({ message: t("created_successfully"), type: "success" }));
+        device=response.data.result;
+      } else {
+        throw new Error(response.data.message);
+      }
+    } catch (error) {
+      dispatch(setError(t("undefined_error")));
+    }
 
     const machineIndex = recordCurrent.findIndex(
       (machine) => machine.MachineId === device.MachineId,
@@ -414,6 +450,7 @@ const MachineModel = () => {
       e.preventDefault();
     }
   };
+
   return (
     <BackofficeMainTemplate status={status}>
       <form
@@ -462,6 +499,9 @@ const MachineModel = () => {
           />
         </ModalComponent>
       )}
+
+
+
     </BackofficeMainTemplate>
   );
 };
